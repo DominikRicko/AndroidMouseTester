@@ -21,7 +21,7 @@
 
     </com.google.android.material.appbar.AppBarLayout>
 
-    <hr.dominikricko.mousetester.DrawingView
+    <hr.dominikricko.mousetester.drawing.DrawingView
         android:id="@+id/drawingView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
